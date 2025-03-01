@@ -1,4 +1,4 @@
-# Electron React TypeScript Boilerplate
+# Electron Boilerplate
 
 A secure, type-safe, and well-structured boilerplate for building modern desktop applications using Electron, React, TypeScript, and Vite.
 
@@ -64,8 +64,8 @@ A secure, type-safe, and well-structured boilerplate for building modern desktop
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/electron-react-typescript-boilerplate.git
-cd electron-react-typescript-boilerplate
+git clone https://github.com/emreozogul/electron-boilerplate.git
+cd electron-boilerplate
 
 # Install dependencies
 npm install

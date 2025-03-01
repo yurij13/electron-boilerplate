@@ -3,7 +3,7 @@
  */
 
 // Application information
-export const APP_NAME = 'Electron React TS Boilerplate';
+export const APP_NAME = 'Electron Boilerplate';
 export const APP_VERSION = '1.0.0';
 
 // Window dimensions

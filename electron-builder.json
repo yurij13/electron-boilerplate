@@ -1,6 +1,6 @@
 {
-    "appId": "com.pras.app",
-    "productName": "Pras",
+    "appId": "com.yourcompany.electron-boilerplate",
+    "productName": "Electron Boilerplate",
     "copyright": "Copyright © 2025 Your Company",
     "icon": "./icon.png",
     "files": [

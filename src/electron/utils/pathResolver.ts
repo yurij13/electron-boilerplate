@@ -32,7 +32,7 @@ export function getUserDataPath(): string {
         process.platform === 'darwin'
             ? path.join(process.env.HOME || '', 'Library', 'Application Support')
             : path.join(process.env.HOME || '', '.config')
-    ), 'electron-react-ts-boilerplate');
+    ), 'electron-boilerplate');
 }
 
 /**

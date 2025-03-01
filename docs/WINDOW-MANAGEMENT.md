@@ -1,6 +1,6 @@
 # Window Management Guide
 
-This document explains how window management is implemented in the Electron React TypeScript Boilerplate.
+This document explains how window management is implemented in the Electron Boilerplate.
 
 ## Overview
 

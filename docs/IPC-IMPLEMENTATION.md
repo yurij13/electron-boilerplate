@@ -1,6 +1,6 @@
 # IPC Implementation Guide
 
-This document explains how Inter-Process Communication (IPC) is implemented in the Electron React TypeScript Boilerplate.
+This document explains how Inter-Process Communication (IPC) is implemented in the Electron Boilerplate.
 
 ## Overview
 

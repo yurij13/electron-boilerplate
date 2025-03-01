@@ -1,5 +1,5 @@
 {
-  "name": "electron-react-ts-boilerplate",
+  "name": "electron-boilerplate",
   "private": true,
   "version": "1.0.0",
   "description": "A secure, type-safe, and well-structured boilerplate for building modern desktop applications using Electron, React, TypeScript, and Vite.",
