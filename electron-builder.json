@@ -1,7 +1,7 @@
 {
     "appId": "com.pras.app",
     "productName": "Pras",
-    "copyright": "Copyright © 2025 ${author}",
+    "copyright": "Copyright © 2025 Your Company",
     "icon": "./icon.png",
     "files": [
         "dist-electron",
