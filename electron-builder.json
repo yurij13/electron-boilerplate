@@ -1,0 +1,26 @@
+{
+    "appId": "com.pras.app",
+    "productName": "Pras",
+    "copyright": "Copyright © 2025 ${author}",
+    "icon": "./icon.png",
+    "files": [
+        "dist-electron",
+        "dist-react"
+    ],
+    "extraResources": [
+        "dist-electron/preload.cjs"
+    ],
+    "win": {
+        "target": [
+            "portable",
+            "msi"
+        ]
+    },
+    "mac": {
+        "target": "dmg"
+    },
+    "linux": {
+        "target": "AppImage",
+        "category": "Utility"
+    }
+}
