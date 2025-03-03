@@ -5,11 +5,11 @@
   "description": "A secure, type-safe, and well-structured boilerplate for building modern desktop applications using Electron, React, TypeScript, and Vite.",
   "author": "Your Company",
   "type": "module",
-  "main": "dist-electron/main.js",
+  "main": "dist-electron/electron/main.js",
   "scripts": {
     "dev": "npm-run-all --parallel dev:react dev:electron",
     "dev:react": "vite",
-    "dev:electron": "npm run transpile:electron; cross-env NODE_ENV=development electron .",
+    "dev:electron": "npm run transpile:electron && cross-env NODE_ENV=development electron .",
     "build": "tsc && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
